@@ -1,5 +1,5 @@
 
-## Workflow to Build container image and deploy to Azure Kubernetes Service cluster
+## Workflow to Build container image and deploy to Azure Kubernetes Service (AKS) cluster
 
 ```yaml
 on: [push]
