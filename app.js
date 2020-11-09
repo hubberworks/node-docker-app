@@ -1,4 +1,4 @@
-//Load express module with `require` directive
+//Load express modules with `require` directive
 var express = require('express')
 var app = express()
 
