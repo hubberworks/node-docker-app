@@ -1,5 +1,5 @@
 
-## End to end workflow to Build container image and deploy to Azure Kubernetes Service cluster
+## Workflow to Build container image and deploy to Azure Kubernetes Service cluster
 
 ```yaml
 on: [push]
